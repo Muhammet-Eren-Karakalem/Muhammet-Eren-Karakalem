@@ -48,15 +48,15 @@ Bayburt Üniversitesi MYO'da **Bilgisayar Programcılığı** 2. sınıf öğren
 
 | | Proje | Teknoloji | Açıklama |
 |:-:|---|---|---|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26"/> | **Haber Sitesi** | `WordPress` | WordPress ile kurduğum haber sitesi |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="26"/> | **Haber Sitesi** | `Joomla` | Joomla içerik yönetim sistemiyle hazırladığım haber sitesi |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="26"/> | **Mobil Uygulama** | `MIT App Inventor` | App Inventor ile geliştirdiğim Android uygulaması |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="26"/> | **Masaüstü Uygulama** | `C# .NET` | Windows Forms ile geliştirdiğim C# uygulaması |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="28" height="28"/> | **Haber Sitesi** | `WordPress` | WordPress ile kurduğum haber sitesi |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="28" height="28"/> | **Haber Sitesi** | `Joomla` | Joomla içerik yönetim sistemiyle hazırladığım haber sitesi |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" height="28"/> | **Mobil Uygulama** | `MIT App Inventor` | App Inventor ile geliştirdiğim Android uygulaması |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28" height="28"/> | **Masaüstü Uygulama** | `C# .NET` | Windows Forms ile geliştirdiğim C# uygulaması |
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30"/> Sistem Analizi
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammet-Eren-Karakalem&show_icons=true&hide_border=true&locale=tr&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=A6FFA6&ring_color=00FF41" height="170" alt="GitHub istatistikleri"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammet-Eren-Karakalem&show_icons=true&hide_border=true&locale=tr&custom_title=Sistem%20Raporu&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=A6FFA6&ring_color=00FF41" height="170" alt="GitHub istatistikleri"/>
 <img src="https://streak-stats.demolab.com?user=Muhammet-Eren-Karakalem&locale=tr&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=A6FFA6&dates=4CAF50&stroke=00C853" height="170" alt="GitHub seri"/>
 </p>
 
